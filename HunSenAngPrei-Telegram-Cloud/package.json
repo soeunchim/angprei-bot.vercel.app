@@ -1,0 +1,10 @@
+{
+  "name": "hunsenangprei-telegram-cloud",
+  "version": "1.0.0",
+  "description": "Telegram Bot Cloud Server for Hun Sen Ang Prei High School Timetable",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {}
+}
